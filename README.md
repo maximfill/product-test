@@ -29,6 +29,7 @@ ProductCard — карточка товара.
 Запуск проекта:
 
 - git clone https://github.com/maximfill/product-test.git
+- Ссылка на Netlify https://cosmic-zuccutto-88f262.netlify.app/
 - cd product-test
 - npm install
 - npm start
